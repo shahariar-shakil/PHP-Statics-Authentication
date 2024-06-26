@@ -1,0 +1,17 @@
+name: project-admin
+
+in resources/views/contact.blade.php
+
+in app/http/controllers/auth/AdminLoginController.php
+
+
+when I click "register" button at this http://127.0.0.1:8000/register, they show: "View [auth.login] not found" at http://127.0.0.1:8000/login
+
+can you solve this?
+
+user mail: shahriar@shakil.com
+user pass: 12345678
+
+
+add some home contents here 
+in resources/views/home.blade.php:
